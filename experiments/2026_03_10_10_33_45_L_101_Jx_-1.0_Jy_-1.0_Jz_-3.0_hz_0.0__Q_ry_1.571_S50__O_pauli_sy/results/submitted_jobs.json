@@ -1,0 +1,1172 @@
+[
+  {
+    "job_id": "d6nv89s3pels73a25oo0",
+    "circuit_name": "circuit-266",
+    "circuit_information": {
+      "time": 0.0,
+      "num_trotter_steps": 15,
+      "dt": 0.0,
+      "quench_sign": "plus",
+      "cx_depth": 0,
+      "size": 158,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8a43pels73a25op0",
+    "circuit_name": "circuit-267",
+    "circuit_information": {
+      "time": 0.6818181818181819,
+      "num_trotter_steps": 15,
+      "dt": 0.045454545454545456,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26963,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8a8bfi7c73a58v20",
+    "circuit_name": "circuit-268",
+    "circuit_information": {
+      "time": 1.3636363636363638,
+      "num_trotter_steps": 15,
+      "dt": 0.09090909090909091,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26988,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8as3pels73a25opg",
+    "circuit_name": "circuit-269",
+    "circuit_information": {
+      "time": 2.0454545454545454,
+      "num_trotter_steps": 15,
+      "dt": 0.13636363636363635,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26981,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8b0bfi7c73a58v30",
+    "circuit_name": "circuit-270",
+    "circuit_information": {
+      "time": 2.7272727272727275,
+      "num_trotter_steps": 15,
+      "dt": 0.18181818181818182,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27012,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8bc3pels73a25oqg",
+    "circuit_name": "circuit-271",
+    "circuit_information": {
+      "time": 3.409090909090909,
+      "num_trotter_steps": 15,
+      "dt": 0.22727272727272727,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27010,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8bm9td6c73aonbmg",
+    "circuit_name": "circuit-272",
+    "circuit_information": {
+      "time": 4.090909090909091,
+      "num_trotter_steps": 15,
+      "dt": 0.2727272727272727,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27694,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8c43pels73a25org",
+    "circuit_name": "circuit-273",
+    "circuit_information": {
+      "time": 4.7727272727272725,
+      "num_trotter_steps": 15,
+      "dt": 0.3181818181818182,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27713,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8c8fh9oc73epn2i0",
+    "circuit_name": "circuit-274",
+    "circuit_information": {
+      "time": 5.454545454545455,
+      "num_trotter_steps": 15,
+      "dt": 0.36363636363636365,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27729,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8cgbfi7c73a58v5g",
+    "circuit_name": "circuit-275",
+    "circuit_information": {
+      "time": 6.136363636363637,
+      "num_trotter_steps": 15,
+      "dt": 0.4090909090909091,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27759,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8cu9td6c73aonbog",
+    "circuit_name": "circuit-276",
+    "circuit_information": {
+      "time": 6.818181818181818,
+      "num_trotter_steps": 15,
+      "dt": 0.45454545454545453,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27663,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8dc3pels73a25ou0",
+    "circuit_name": "circuit-277",
+    "circuit_information": {
+      "time": 7.5,
+      "num_trotter_steps": 15,
+      "dt": 0.5,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27823,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8dk3pels73a25oug",
+    "circuit_name": "circuit-278",
+    "circuit_information": {
+      "time": 8.181818181818182,
+      "num_trotter_steps": 15,
+      "dt": 0.5454545454545454,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27670,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8dofh9oc73epn2l0",
+    "circuit_name": "circuit-279",
+    "circuit_information": {
+      "time": 8.863636363636363,
+      "num_trotter_steps": 15,
+      "dt": 0.5909090909090909,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27680,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8ec3pels73a25ovg",
+    "circuit_name": "circuit-280",
+    "circuit_information": {
+      "time": 9.545454545454545,
+      "num_trotter_steps": 15,
+      "dt": 0.6363636363636364,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27798,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8em9td6c73aonbs0",
+    "circuit_name": "circuit-281",
+    "circuit_information": {
+      "time": 10.227272727272727,
+      "num_trotter_steps": 15,
+      "dt": 0.6818181818181818,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27828,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8eobfi7c73a58va0",
+    "circuit_name": "circuit-282",
+    "circuit_information": {
+      "time": 10.90909090909091,
+      "num_trotter_steps": 15,
+      "dt": 0.7272727272727273,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27689,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8f0fh9oc73epn2n0",
+    "circuit_name": "circuit-283",
+    "circuit_information": {
+      "time": 11.59090909090909,
+      "num_trotter_steps": 15,
+      "dt": 0.7727272727272727,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26984,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8fgbfi7c73a58vb0",
+    "circuit_name": "circuit-284",
+    "circuit_information": {
+      "time": 12.272727272727273,
+      "num_trotter_steps": 15,
+      "dt": 0.8181818181818182,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27753,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8fs3pels73a25p3g",
+    "circuit_name": "circuit-285",
+    "circuit_information": {
+      "time": 12.954545454545455,
+      "num_trotter_steps": 15,
+      "dt": 0.8636363636363636,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26984,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8g0bfi7c73a58vd0",
+    "circuit_name": "circuit-286",
+    "circuit_information": {
+      "time": 13.636363636363637,
+      "num_trotter_steps": 15,
+      "dt": 0.9090909090909091,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26923,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8g8fh9oc73epn2qg",
+    "circuit_name": "circuit-287",
+    "circuit_information": {
+      "time": 14.318181818181818,
+      "num_trotter_steps": 15,
+      "dt": 0.9545454545454546,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27730,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8gk3pels73a25p4g",
+    "circuit_name": "circuit-288",
+    "circuit_information": {
+      "time": 15.0,
+      "num_trotter_steps": 15,
+      "dt": 1.0,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27735,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8h0bfi7c73a58veg",
+    "circuit_name": "circuit-289",
+    "circuit_information": {
+      "time": 15.681818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.0454545454545454,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27744,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8h8bfi7c73a58vf0",
+    "circuit_name": "circuit-290",
+    "circuit_information": {
+      "time": 16.363636363636363,
+      "num_trotter_steps": 15,
+      "dt": 1.0909090909090908,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25773,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8hm9td6c73aonc10",
+    "circuit_name": "circuit-291",
+    "circuit_information": {
+      "time": 17.045454545454547,
+      "num_trotter_steps": 15,
+      "dt": 1.1363636363636365,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25784,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8i0fh9oc73epn2sg",
+    "circuit_name": "circuit-292",
+    "circuit_information": {
+      "time": 17.727272727272727,
+      "num_trotter_steps": 15,
+      "dt": 1.1818181818181819,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25776,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8ie9td6c73aonc30",
+    "circuit_name": "circuit-293",
+    "circuit_information": {
+      "time": 18.40909090909091,
+      "num_trotter_steps": 15,
+      "dt": 1.2272727272727273,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25024,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8iu9td6c73aonc3g",
+    "circuit_name": "circuit-294",
+    "circuit_information": {
+      "time": 19.09090909090909,
+      "num_trotter_steps": 15,
+      "dt": 1.2727272727272727,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25707,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8j0bfi7c73a58vig",
+    "circuit_name": "circuit-295",
+    "circuit_information": {
+      "time": 19.772727272727273,
+      "num_trotter_steps": 15,
+      "dt": 1.3181818181818181,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25707,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8je9td6c73aonc5g",
+    "circuit_name": "circuit-296",
+    "circuit_information": {
+      "time": 20.454545454545453,
+      "num_trotter_steps": 15,
+      "dt": 1.3636363636363635,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25812,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8jgfh9oc73epn2vg",
+    "circuit_name": "circuit-297",
+    "circuit_information": {
+      "time": 21.136363636363637,
+      "num_trotter_steps": 15,
+      "dt": 1.4090909090909092,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25730,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8k69td6c73aonc70",
+    "circuit_name": "circuit-298",
+    "circuit_information": {
+      "time": 21.81818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.4545454545454546,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25010,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8k8fh9oc73epn30g",
+    "circuit_name": "circuit-299",
+    "circuit_information": {
+      "time": 22.5,
+      "num_trotter_steps": 15,
+      "dt": 1.5,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25751,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8kk3pels73a25pe0",
+    "circuit_name": "circuit-300",
+    "circuit_information": {
+      "time": 23.18181818181818,
+      "num_trotter_steps": 15,
+      "dt": 1.5454545454545454,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25683,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8kofh9oc73epn320",
+    "circuit_name": "circuit-301",
+    "circuit_information": {
+      "time": 23.863636363636363,
+      "num_trotter_steps": 15,
+      "dt": 1.5909090909090908,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26273,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8l0fh9oc73epn330",
+    "circuit_name": "circuit-302",
+    "circuit_information": {
+      "time": 24.545454545454547,
+      "num_trotter_steps": 15,
+      "dt": 1.6363636363636365,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26610,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8l8bfi7c73a58vlg",
+    "circuit_name": "circuit-303",
+    "circuit_information": {
+      "time": 25.227272727272727,
+      "num_trotter_steps": 15,
+      "dt": 1.6818181818181819,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26247,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8ls3pels73a25pfg",
+    "circuit_name": "circuit-304",
+    "circuit_information": {
+      "time": 25.90909090909091,
+      "num_trotter_steps": 15,
+      "dt": 1.7272727272727273,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26580,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8m43pels73a25pgg",
+    "circuit_name": "circuit-305",
+    "circuit_information": {
+      "time": 26.59090909090909,
+      "num_trotter_steps": 15,
+      "dt": 1.7727272727272727,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 25430,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8mc3pels73a25phg",
+    "circuit_name": "circuit-306",
+    "circuit_information": {
+      "time": 27.272727272727273,
+      "num_trotter_steps": 15,
+      "dt": 1.8181818181818181,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26567,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8mk3pels73a25pi0",
+    "circuit_name": "circuit-307",
+    "circuit_information": {
+      "time": 27.954545454545453,
+      "num_trotter_steps": 15,
+      "dt": 1.8636363636363635,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26147,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8n69td6c73aoncdg",
+    "circuit_name": "circuit-308",
+    "circuit_information": {
+      "time": 28.636363636363637,
+      "num_trotter_steps": 15,
+      "dt": 1.9090909090909092,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26228,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8ngbfi7c73a58vp0",
+    "circuit_name": "circuit-309",
+    "circuit_information": {
+      "time": 29.31818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.9545454545454546,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26594,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8nu9td6c73aoncf0",
+    "circuit_name": "circuit-310",
+    "circuit_information": {
+      "time": 30.0,
+      "num_trotter_steps": 15,
+      "dt": 2.0,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 26229,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8o69td6c73aoncfg",
+    "circuit_name": "circuit-311",
+    "circuit_information": {
+      "time": 0.0,
+      "num_trotter_steps": 15,
+      "dt": 0.0,
+      "quench_sign": "minus",
+      "cx_depth": 0,
+      "size": 158,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8o8fh9oc73epn380",
+    "circuit_name": "circuit-312",
+    "circuit_information": {
+      "time": 0.6818181818181819,
+      "num_trotter_steps": 15,
+      "dt": 0.045454545454545456,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26962,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8ogbfi7c73a58vrg",
+    "circuit_name": "circuit-313",
+    "circuit_information": {
+      "time": 1.3636363636363638,
+      "num_trotter_steps": 15,
+      "dt": 0.09090909090909091,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26987,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8p69td6c73aonchg",
+    "circuit_name": "circuit-314",
+    "circuit_information": {
+      "time": 2.0454545454545454,
+      "num_trotter_steps": 15,
+      "dt": 0.13636363636363635,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26982,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8pc3pels73a25pn0",
+    "circuit_name": "circuit-315",
+    "circuit_information": {
+      "time": 2.7272727272727275,
+      "num_trotter_steps": 15,
+      "dt": 0.18181818181818182,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27012,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8pm9td6c73aoncj0",
+    "circuit_name": "circuit-316",
+    "circuit_information": {
+      "time": 3.409090909090909,
+      "num_trotter_steps": 15,
+      "dt": 0.22727272727272727,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27010,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8q0bfi7c73a58vu0",
+    "circuit_name": "circuit-317",
+    "circuit_information": {
+      "time": 4.090909090909091,
+      "num_trotter_steps": 15,
+      "dt": 0.2727272727272727,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27695,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8q8bfi7c73a58vv0",
+    "circuit_name": "circuit-318",
+    "circuit_information": {
+      "time": 4.7727272727272725,
+      "num_trotter_steps": 15,
+      "dt": 0.3181818181818182,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27712,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8qgfh9oc73epn3d0",
+    "circuit_name": "circuit-319",
+    "circuit_information": {
+      "time": 5.454545454545455,
+      "num_trotter_steps": 15,
+      "dt": 0.36363636363636365,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27726,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8qofh9oc73epn3dg",
+    "circuit_name": "circuit-320",
+    "circuit_information": {
+      "time": 6.136363636363637,
+      "num_trotter_steps": 15,
+      "dt": 0.4090909090909091,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27760,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8r69td6c73aoncmg",
+    "circuit_name": "circuit-321",
+    "circuit_information": {
+      "time": 6.818181818181818,
+      "num_trotter_steps": 15,
+      "dt": 0.45454545454545453,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27660,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8rgfh9oc73epn3fg",
+    "circuit_name": "circuit-322",
+    "circuit_information": {
+      "time": 7.5,
+      "num_trotter_steps": 15,
+      "dt": 0.5,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27822,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8rofh9oc73epn3g0",
+    "circuit_name": "circuit-323",
+    "circuit_information": {
+      "time": 8.181818181818182,
+      "num_trotter_steps": 15,
+      "dt": 0.5454545454545454,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27670,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8s0bfi7c73a59020",
+    "circuit_name": "circuit-324",
+    "circuit_information": {
+      "time": 8.863636363636363,
+      "num_trotter_steps": 15,
+      "dt": 0.5909090909090909,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27680,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8s8fh9oc73epn3h0",
+    "circuit_name": "circuit-325",
+    "circuit_information": {
+      "time": 9.545454545454545,
+      "num_trotter_steps": 15,
+      "dt": 0.6363636363636364,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27796,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8su9td6c73aoncqg",
+    "circuit_name": "circuit-326",
+    "circuit_information": {
+      "time": 10.227272727272727,
+      "num_trotter_steps": 15,
+      "dt": 0.6818181818181818,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27828,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8t0fh9oc73epn3j0",
+    "circuit_name": "circuit-327",
+    "circuit_information": {
+      "time": 10.90909090909091,
+      "num_trotter_steps": 15,
+      "dt": 0.7272727272727273,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27689,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8t8fh9oc73epn3jg",
+    "circuit_name": "circuit-328",
+    "circuit_information": {
+      "time": 11.59090909090909,
+      "num_trotter_steps": 15,
+      "dt": 0.7727272727272727,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26985,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8tgbfi7c73a59040",
+    "circuit_name": "circuit-329",
+    "circuit_information": {
+      "time": 12.272727272727273,
+      "num_trotter_steps": 15,
+      "dt": 0.8181818181818182,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27753,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8tu9td6c73aoncug",
+    "circuit_name": "circuit-330",
+    "circuit_information": {
+      "time": 12.954545454545455,
+      "num_trotter_steps": 15,
+      "dt": 0.8636363636363636,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26983,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8u8fh9oc73epn3m0",
+    "circuit_name": "circuit-331",
+    "circuit_information": {
+      "time": 13.636363636363637,
+      "num_trotter_steps": 15,
+      "dt": 0.9090909090909091,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26923,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8um9td6c73aond0g",
+    "circuit_name": "circuit-332",
+    "circuit_information": {
+      "time": 14.318181818181818,
+      "num_trotter_steps": 15,
+      "dt": 0.9545454545454546,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27729,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8us3pels73a25pv0",
+    "circuit_name": "circuit-333",
+    "circuit_information": {
+      "time": 15.0,
+      "num_trotter_steps": 15,
+      "dt": 1.0,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27735,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8v8fh9oc73epn3p0",
+    "circuit_name": "circuit-334",
+    "circuit_information": {
+      "time": 15.681818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.0454545454545454,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27745,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8vm9td6c73aond20",
+    "circuit_name": "circuit-335",
+    "circuit_information": {
+      "time": 16.363636363636363,
+      "num_trotter_steps": 15,
+      "dt": 1.0909090909090908,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25776,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv8vobfi7c73a590a0",
+    "circuit_name": "circuit-336",
+    "circuit_information": {
+      "time": 17.045454545454547,
+      "num_trotter_steps": 15,
+      "dt": 1.1363636363636365,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25781,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv9043pels73a25q2g",
+    "circuit_name": "circuit-337",
+    "circuit_information": {
+      "time": 17.727272727272727,
+      "num_trotter_steps": 15,
+      "dt": 1.1818181818181819,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25776,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv90gbfi7c73a590ag",
+    "circuit_name": "circuit-338",
+    "circuit_information": {
+      "time": 18.40909090909091,
+      "num_trotter_steps": 15,
+      "dt": 1.2272727272727273,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25024,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv90obfi7c73a590c0",
+    "circuit_name": "circuit-339",
+    "circuit_information": {
+      "time": 19.09090909090909,
+      "num_trotter_steps": 15,
+      "dt": 1.2727272727272727,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25704,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv9143pels73a25q50",
+    "circuit_name": "circuit-340",
+    "circuit_information": {
+      "time": 19.772727272727273,
+      "num_trotter_steps": 15,
+      "dt": 1.3181818181818181,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25704,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv918fh9oc73epn3r0",
+    "circuit_name": "circuit-341",
+    "circuit_information": {
+      "time": 20.454545454545453,
+      "num_trotter_steps": 15,
+      "dt": 1.3636363636363635,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25812,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv91gbfi7c73a590e0",
+    "circuit_name": "circuit-342",
+    "circuit_information": {
+      "time": 21.136363636363637,
+      "num_trotter_steps": 15,
+      "dt": 1.4090909090909092,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25730,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv91s3pels73a25q6g",
+    "circuit_name": "circuit-343",
+    "circuit_information": {
+      "time": 21.81818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.4545454545454546,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25010,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv920fh9oc73epn3t0",
+    "circuit_name": "circuit-344",
+    "circuit_information": {
+      "time": 22.5,
+      "num_trotter_steps": 15,
+      "dt": 1.5,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25751,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv92k3pels73a25q7g",
+    "circuit_name": "circuit-345",
+    "circuit_information": {
+      "time": 23.18181818181818,
+      "num_trotter_steps": 15,
+      "dt": 1.5454545454545454,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25683,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv92u9td6c73aond6g",
+    "circuit_name": "circuit-346",
+    "circuit_information": {
+      "time": 23.863636363636363,
+      "num_trotter_steps": 15,
+      "dt": 1.5909090909090908,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26274,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv9369td6c73aond70",
+    "circuit_name": "circuit-347",
+    "circuit_information": {
+      "time": 24.545454545454547,
+      "num_trotter_steps": 15,
+      "dt": 1.6363636363636365,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26610,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv93m9td6c73aond7g",
+    "circuit_name": "circuit-348",
+    "circuit_information": {
+      "time": 25.227272727272727,
+      "num_trotter_steps": 15,
+      "dt": 1.6818181818181819,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26246,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv93u9td6c73aond90",
+    "circuit_name": "circuit-349",
+    "circuit_information": {
+      "time": 25.90909090909091,
+      "num_trotter_steps": 15,
+      "dt": 1.7272727272727273,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26580,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv9469td6c73aond9g",
+    "circuit_name": "circuit-350",
+    "circuit_information": {
+      "time": 26.59090909090909,
+      "num_trotter_steps": 15,
+      "dt": 1.7727272727272727,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 25429,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv94e9td6c73aondag",
+    "circuit_name": "circuit-351",
+    "circuit_information": {
+      "time": 27.272727272727273,
+      "num_trotter_steps": 15,
+      "dt": 1.8181818181818181,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26568,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv94obfi7c73a590lg",
+    "circuit_name": "circuit-352",
+    "circuit_information": {
+      "time": 27.954545454545453,
+      "num_trotter_steps": 15,
+      "dt": 1.8636363636363635,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26146,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv950fh9oc73epn41g",
+    "circuit_name": "circuit-353",
+    "circuit_information": {
+      "time": 28.636363636363637,
+      "num_trotter_steps": 15,
+      "dt": 1.9090909090909092,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26227,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv95e9td6c73aondc0",
+    "circuit_name": "circuit-354",
+    "circuit_information": {
+      "time": 29.31818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.9545454545454546,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26594,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d6nv95u9td6c73aondd0",
+    "circuit_name": "circuit-265",
+    "circuit_information": {
+      "time": 30.0,
+      "num_trotter_steps": 15,
+      "dt": 2.0,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 26229,
+      "num_qubits": 156
+    }
+  }
+]

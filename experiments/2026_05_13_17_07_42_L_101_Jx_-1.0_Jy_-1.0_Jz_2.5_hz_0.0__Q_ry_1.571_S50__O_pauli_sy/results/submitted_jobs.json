@@ -1,0 +1,652 @@
+[
+  {
+    "job_id": "d82a54ftjchs73bnqsu0",
+    "circuit_name": "evol_t0.000_idx0_plus",
+    "circuit_information": {
+      "time": 0.0,
+      "num_trotter_steps": 15,
+      "dt": 0.0,
+      "quench_sign": "plus",
+      "cx_depth": 24,
+      "size": 9305,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a54mgbeec73alhn10",
+    "circuit_name": "evol_t0.417_idx1_plus",
+    "circuit_information": {
+      "time": 0.41666666666666663,
+      "num_trotter_steps": 15,
+      "dt": 0.027777777777777776,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34894,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5500bvlc73d221g0",
+    "circuit_name": "evol_t0.833_idx2_plus",
+    "circuit_information": {
+      "time": 0.8333333333333333,
+      "num_trotter_steps": 15,
+      "dt": 0.05555555555555555,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34220,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a55egbeec73alhn20",
+    "circuit_name": "evol_t1.250_idx3_plus",
+    "circuit_information": {
+      "time": 1.25,
+      "num_trotter_steps": 15,
+      "dt": 0.08333333333333333,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34892,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a55g0bvlc73d221h0",
+    "circuit_name": "evol_t1.667_idx4_plus",
+    "circuit_information": {
+      "time": 1.6666666666666665,
+      "num_trotter_steps": 15,
+      "dt": 0.1111111111111111,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34892,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a55o0bvlc73d221hg",
+    "circuit_name": "evol_t2.083_idx5_plus",
+    "circuit_information": {
+      "time": 2.0833333333333335,
+      "num_trotter_steps": 15,
+      "dt": 0.1388888888888889,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34867,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5680bvlc73d221ig",
+    "circuit_name": "evol_t2.500_idx6_plus",
+    "circuit_information": {
+      "time": 2.5,
+      "num_trotter_steps": 15,
+      "dt": 0.16666666666666666,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34864,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a56ntjchs73bnqt30",
+    "circuit_name": "evol_t2.917_idx7_plus",
+    "circuit_information": {
+      "time": 2.916666666666667,
+      "num_trotter_steps": 15,
+      "dt": 0.19444444444444448,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34882,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a56vtjchs73bnqt3g",
+    "circuit_name": "evol_t3.333_idx8_plus",
+    "circuit_information": {
+      "time": 3.333333333333333,
+      "num_trotter_steps": 15,
+      "dt": 0.2222222222222222,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34891,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a577oha1c73blarv0",
+    "circuit_name": "evol_t3.750_idx9_plus",
+    "circuit_information": {
+      "time": 3.75,
+      "num_trotter_steps": 15,
+      "dt": 0.25,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34226,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a57foha1c73blarvg",
+    "circuit_name": "evol_t4.167_idx10_plus",
+    "circuit_information": {
+      "time": 4.166666666666667,
+      "num_trotter_steps": 15,
+      "dt": 0.2777777777777778,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34220,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a57mgbeec73alhn70",
+    "circuit_name": "evol_t4.583_idx11_plus",
+    "circuit_information": {
+      "time": 4.583333333333333,
+      "num_trotter_steps": 15,
+      "dt": 0.3055555555555555,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34862,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a57ugbeec73alhn80",
+    "circuit_name": "evol_t5.000_idx12_plus",
+    "circuit_information": {
+      "time": 5.0,
+      "num_trotter_steps": 15,
+      "dt": 0.3333333333333333,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34862,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a587oha1c73blas10",
+    "circuit_name": "evol_t5.417_idx13_plus",
+    "circuit_information": {
+      "time": 5.416666666666666,
+      "num_trotter_steps": 15,
+      "dt": 0.36111111111111105,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34839,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a58egbeec73alhna0",
+    "circuit_name": "evol_t5.833_idx14_plus",
+    "circuit_information": {
+      "time": 5.833333333333334,
+      "num_trotter_steps": 15,
+      "dt": 0.38888888888888895,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34892,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a58ugbeec73alhnag",
+    "circuit_name": "evol_t6.250_idx15_plus",
+    "circuit_information": {
+      "time": 6.25,
+      "num_trotter_steps": 15,
+      "dt": 0.4166666666666667,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34862,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a597oha1c73blas30",
+    "circuit_name": "evol_t6.667_idx16_plus",
+    "circuit_information": {
+      "time": 6.666666666666666,
+      "num_trotter_steps": 15,
+      "dt": 0.4444444444444444,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34190,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5980bvlc73d221lg",
+    "circuit_name": "evol_t7.083_idx17_plus",
+    "circuit_information": {
+      "time": 7.083333333333334,
+      "num_trotter_steps": 15,
+      "dt": 0.47222222222222227,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 35010,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a59ntjchs73bnqt80",
+    "circuit_name": "evol_t7.500_idx18_plus",
+    "circuit_information": {
+      "time": 7.5,
+      "num_trotter_steps": 15,
+      "dt": 0.5,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34968,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a59ugbeec73alhne0",
+    "circuit_name": "evol_t7.917_idx19_plus",
+    "circuit_information": {
+      "time": 7.916666666666666,
+      "num_trotter_steps": 15,
+      "dt": 0.5277777777777778,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34220,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5a6gbeec73alhneg",
+    "circuit_name": "evol_t8.333_idx20_plus",
+    "circuit_information": {
+      "time": 8.333333333333334,
+      "num_trotter_steps": 15,
+      "dt": 0.5555555555555556,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34920,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5aegbeec73alhng0",
+    "circuit_name": "evol_t8.750_idx21_plus",
+    "circuit_information": {
+      "time": 8.75,
+      "num_trotter_steps": 15,
+      "dt": 0.5833333333333334,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34862,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5ao0bvlc73d221p0",
+    "circuit_name": "evol_t9.167_idx22_plus",
+    "circuit_information": {
+      "time": 9.166666666666666,
+      "num_trotter_steps": 15,
+      "dt": 0.611111111111111,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34220,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5b6gbeec73alhnh0",
+    "circuit_name": "evol_t9.583_idx23_plus",
+    "circuit_information": {
+      "time": 9.583333333333334,
+      "num_trotter_steps": 15,
+      "dt": 0.638888888888889,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34220,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5bftjchs73bnqtag",
+    "circuit_name": "evol_t10.000_idx24_plus",
+    "circuit_information": {
+      "time": 10.0,
+      "num_trotter_steps": 15,
+      "dt": 0.6666666666666666,
+      "quench_sign": "plus",
+      "cx_depth": 117,
+      "size": 34862,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5bnoha1c73blas8g",
+    "circuit_name": "evol_t0.000_idx0_minus",
+    "circuit_information": {
+      "time": 0.0,
+      "num_trotter_steps": 15,
+      "dt": 0.0,
+      "quench_sign": "minus",
+      "cx_depth": 24,
+      "size": 9305,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5bugbeec73alhnj0",
+    "circuit_name": "evol_t0.417_idx1_minus",
+    "circuit_information": {
+      "time": 0.41666666666666663,
+      "num_trotter_steps": 15,
+      "dt": 0.027777777777777776,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34894,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5c6gbeec73alhnjg",
+    "circuit_name": "evol_t0.833_idx2_minus",
+    "circuit_information": {
+      "time": 0.8333333333333333,
+      "num_trotter_steps": 15,
+      "dt": 0.05555555555555555,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34220,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5c80bvlc73d221s0",
+    "circuit_name": "evol_t1.250_idx3_minus",
+    "circuit_information": {
+      "time": 1.25,
+      "num_trotter_steps": 15,
+      "dt": 0.08333333333333333,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34892,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5cvtjchs73bnqteg",
+    "circuit_name": "evol_t1.667_idx4_minus",
+    "circuit_information": {
+      "time": 1.6666666666666665,
+      "num_trotter_steps": 15,
+      "dt": 0.1111111111111111,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34892,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5d00bvlc73d221t0",
+    "circuit_name": "evol_t2.083_idx5_minus",
+    "circuit_information": {
+      "time": 2.0833333333333335,
+      "num_trotter_steps": 15,
+      "dt": 0.1388888888888889,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34867,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5dfoha1c73blasag",
+    "circuit_name": "evol_t2.500_idx6_minus",
+    "circuit_information": {
+      "time": 2.5,
+      "num_trotter_steps": 15,
+      "dt": 0.16666666666666666,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34864,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5dg0bvlc73d221u0",
+    "circuit_name": "evol_t2.917_idx7_minus",
+    "circuit_information": {
+      "time": 2.916666666666667,
+      "num_trotter_steps": 15,
+      "dt": 0.19444444444444448,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34882,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5e7tjchs73bnqtgg",
+    "circuit_name": "evol_t3.333_idx8_minus",
+    "circuit_information": {
+      "time": 3.333333333333333,
+      "num_trotter_steps": 15,
+      "dt": 0.2222222222222222,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34891,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5efoha1c73blascg",
+    "circuit_name": "evol_t3.750_idx9_minus",
+    "circuit_information": {
+      "time": 3.75,
+      "num_trotter_steps": 15,
+      "dt": 0.25,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34226,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5emgbeec73alhnn0",
+    "circuit_name": "evol_t4.167_idx10_minus",
+    "circuit_information": {
+      "time": 4.166666666666667,
+      "num_trotter_steps": 15,
+      "dt": 0.2777777777777778,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34220,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5eo0bvlc73d22200",
+    "circuit_name": "evol_t4.583_idx11_minus",
+    "circuit_information": {
+      "time": 4.583333333333333,
+      "num_trotter_steps": 15,
+      "dt": 0.3055555555555555,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34862,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5f6gbeec73alhnog",
+    "circuit_name": "evol_t5.000_idx12_minus",
+    "circuit_information": {
+      "time": 5.0,
+      "num_trotter_steps": 15,
+      "dt": 0.3333333333333333,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34862,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5fftjchs73bnqtig",
+    "circuit_name": "evol_t5.417_idx13_minus",
+    "circuit_information": {
+      "time": 5.416666666666666,
+      "num_trotter_steps": 15,
+      "dt": 0.36111111111111105,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34839,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5fmgbeec73alhnq0",
+    "circuit_name": "evol_t5.833_idx14_minus",
+    "circuit_information": {
+      "time": 5.833333333333334,
+      "num_trotter_steps": 15,
+      "dt": 0.38888888888888895,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34892,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5fvtjchs73bnqtjg",
+    "circuit_name": "evol_t6.250_idx15_minus",
+    "circuit_information": {
+      "time": 6.25,
+      "num_trotter_steps": 15,
+      "dt": 0.4166666666666667,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34862,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5g80bvlc73d2222g",
+    "circuit_name": "evol_t6.667_idx16_minus",
+    "circuit_information": {
+      "time": 6.666666666666666,
+      "num_trotter_steps": 15,
+      "dt": 0.4444444444444444,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34190,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5gmgbeec73alhns0",
+    "circuit_name": "evol_t7.083_idx17_minus",
+    "circuit_information": {
+      "time": 7.083333333333334,
+      "num_trotter_steps": 15,
+      "dt": 0.47222222222222227,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 35010,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5gvtjchs73bnqtlg",
+    "circuit_name": "evol_t7.500_idx18_minus",
+    "circuit_information": {
+      "time": 7.5,
+      "num_trotter_steps": 15,
+      "dt": 0.5,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34968,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5h6gbeec73alhntg",
+    "circuit_name": "evol_t7.917_idx19_minus",
+    "circuit_information": {
+      "time": 7.916666666666666,
+      "num_trotter_steps": 15,
+      "dt": 0.5277777777777778,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34220,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5hegbeec73alhnu0",
+    "circuit_name": "evol_t8.333_idx20_minus",
+    "circuit_information": {
+      "time": 8.333333333333334,
+      "num_trotter_steps": 15,
+      "dt": 0.5555555555555556,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34920,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5hg0bvlc73d2226g",
+    "circuit_name": "evol_t8.750_idx21_minus",
+    "circuit_information": {
+      "time": 8.75,
+      "num_trotter_steps": 15,
+      "dt": 0.5833333333333334,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34862,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5hvoha1c73blashg",
+    "circuit_name": "evol_t9.167_idx22_minus",
+    "circuit_information": {
+      "time": 9.166666666666666,
+      "num_trotter_steps": 15,
+      "dt": 0.611111111111111,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34220,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5i7oha1c73blasi0",
+    "circuit_name": "evol_t9.583_idx23_minus",
+    "circuit_information": {
+      "time": 9.583333333333334,
+      "num_trotter_steps": 15,
+      "dt": 0.638888888888889,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34220,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d82a5inoha1c73blasjg",
+    "circuit_name": "evol_t10.000_idx24_minus",
+    "circuit_information": {
+      "time": 10.0,
+      "num_trotter_steps": 15,
+      "dt": 0.6666666666666666,
+      "quench_sign": "minus",
+      "cx_depth": 117,
+      "size": 34862,
+      "num_qubits": 156
+    }
+  }
+]

@@ -1,0 +1,1172 @@
+[
+  {
+    "job_id": "d75g1vm8faus73f01nv0",
+    "circuit_name": "evol_t0.000_idx0_plus",
+    "circuit_information": {
+      "time": 0.0,
+      "num_trotter_steps": 15,
+      "dt": 0.0,
+      "quench_sign": "plus",
+      "cx_depth": 0,
+      "size": 300,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g20vq1anc738cc0pg",
+    "circuit_name": "evol_t0.682_idx1_plus",
+    "circuit_information": {
+      "time": 0.6818181818181819,
+      "num_trotter_steps": 15,
+      "dt": 0.045454545454545456,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28462,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g21fq1anc738cc0rg",
+    "circuit_name": "evol_t1.364_idx2_plus",
+    "circuit_information": {
+      "time": 1.3636363636363638,
+      "num_trotter_steps": 15,
+      "dt": 0.09090909090909091,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28296,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g21q3qcgc73frncb0",
+    "circuit_name": "evol_t2.045_idx3_plus",
+    "circuit_information": {
+      "time": 2.0454545454545454,
+      "num_trotter_steps": 15,
+      "dt": 0.13636363636363635,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28221,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g22nq1anc738cc0tg",
+    "circuit_name": "evol_t2.727_idx4_plus",
+    "circuit_information": {
+      "time": 2.7272727272727275,
+      "num_trotter_steps": 15,
+      "dt": 0.18181818181818182,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28472,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g22tbjrds73eccki0",
+    "circuit_name": "evol_t3.409_idx5_plus",
+    "circuit_information": {
+      "time": 3.409090909090909,
+      "num_trotter_steps": 15,
+      "dt": 0.22727272727272727,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28325,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g23e8faus73f01o3g",
+    "circuit_name": "evol_t4.091_idx6_plus",
+    "circuit_information": {
+      "time": 4.090909090909091,
+      "num_trotter_steps": 15,
+      "dt": 0.2727272727272727,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28526,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2468faus73f01o50",
+    "circuit_name": "evol_t4.773_idx7_plus",
+    "circuit_information": {
+      "time": 4.7727272727272725,
+      "num_trotter_steps": 15,
+      "dt": 0.3181818181818182,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28255,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g24m8faus73f01o60",
+    "circuit_name": "evol_t5.455_idx8_plus",
+    "circuit_information": {
+      "time": 5.454545454545455,
+      "num_trotter_steps": 15,
+      "dt": 0.36363636363636365,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28241,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g25dbjrds73ecckl0",
+    "circuit_name": "evol_t6.136_idx9_plus",
+    "circuit_information": {
+      "time": 6.136363636363637,
+      "num_trotter_steps": 15,
+      "dt": 0.4090909090909091,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28466,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g25lbjrds73ecckmg",
+    "circuit_name": "evol_t6.818_idx10_plus",
+    "circuit_information": {
+      "time": 6.818181818181818,
+      "num_trotter_steps": 15,
+      "dt": 0.45454545454545453,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28454,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g26a3qcgc73frncfg",
+    "circuit_name": "evol_t7.500_idx11_plus",
+    "circuit_information": {
+      "time": 7.5,
+      "num_trotter_steps": 15,
+      "dt": 0.5,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28215,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g26tbjrds73eccko0",
+    "circuit_name": "evol_t8.182_idx12_plus",
+    "circuit_information": {
+      "time": 8.181818181818182,
+      "num_trotter_steps": 15,
+      "dt": 0.5454545454545454,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28225,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g27fq1anc738cc150",
+    "circuit_name": "evol_t8.864_idx13_plus",
+    "circuit_information": {
+      "time": 8.863636363636363,
+      "num_trotter_steps": 15,
+      "dt": 0.5909090909090909,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28316,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g27q3qcgc73frnci0",
+    "circuit_name": "evol_t9.545_idx14_plus",
+    "circuit_information": {
+      "time": 9.545454545454545,
+      "num_trotter_steps": 15,
+      "dt": 0.6363636363636364,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28182,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g28fq1anc738cc160",
+    "circuit_name": "evol_t10.227_idx15_plus",
+    "circuit_information": {
+      "time": 10.227272727272727,
+      "num_trotter_steps": 15,
+      "dt": 0.6818181818181818,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28505,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g28u8faus73f01ocg",
+    "circuit_name": "evol_t10.909_idx16_plus",
+    "circuit_information": {
+      "time": 10.90909090909091,
+      "num_trotter_steps": 15,
+      "dt": 0.7272727272727273,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28524,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g29dbjrds73ecckrg",
+    "circuit_name": "evol_t11.591_idx17_plus",
+    "circuit_information": {
+      "time": 11.59090909090909,
+      "num_trotter_steps": 15,
+      "dt": 0.7727272727272727,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28286,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2a7q1anc738cc18g",
+    "circuit_name": "evol_t12.273_idx18_plus",
+    "circuit_information": {
+      "time": 12.272727272727273,
+      "num_trotter_steps": 15,
+      "dt": 0.8181818181818182,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28492,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2afq1anc738cc1a0",
+    "circuit_name": "evol_t12.955_idx19_plus",
+    "circuit_information": {
+      "time": 12.954545454545455,
+      "num_trotter_steps": 15,
+      "dt": 0.8636363636363636,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28472,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2avq1anc738cc1bg",
+    "circuit_name": "evol_t13.636_idx20_plus",
+    "circuit_information": {
+      "time": 13.636363636363637,
+      "num_trotter_steps": 15,
+      "dt": 0.9090909090909091,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28485,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2bdbjrds73eccku0",
+    "circuit_name": "evol_t14.318_idx21_plus",
+    "circuit_information": {
+      "time": 14.318181818181818,
+      "num_trotter_steps": 15,
+      "dt": 0.9545454545454546,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28501,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2c23qcgc73frnco0",
+    "circuit_name": "evol_t15.000_idx22_plus",
+    "circuit_information": {
+      "time": 15.0,
+      "num_trotter_steps": 15,
+      "dt": 1.0,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28169,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2cfq1anc738cc1dg",
+    "circuit_name": "evol_t15.682_idx23_plus",
+    "circuit_information": {
+      "time": 15.681818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.0454545454545454,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28473,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2d23qcgc73frncpg",
+    "circuit_name": "evol_t16.364_idx24_plus",
+    "circuit_information": {
+      "time": 16.363636363636363,
+      "num_trotter_steps": 15,
+      "dt": 1.0909090909090908,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28237,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2dm8faus73f01ojg",
+    "circuit_name": "evol_t17.045_idx25_plus",
+    "circuit_information": {
+      "time": 17.045454545454547,
+      "num_trotter_steps": 15,
+      "dt": 1.1363636363636365,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28528,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2e23qcgc73frncrg",
+    "circuit_name": "evol_t17.727_idx26_plus",
+    "circuit_information": {
+      "time": 17.727272727272727,
+      "num_trotter_steps": 15,
+      "dt": 1.1818181818181819,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28524,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2elbjrds73eccl20",
+    "circuit_name": "evol_t18.409_idx27_plus",
+    "circuit_information": {
+      "time": 18.40909090909091,
+      "num_trotter_steps": 15,
+      "dt": 1.2272727272727273,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28235,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2f68faus73f01olg",
+    "circuit_name": "evol_t19.091_idx28_plus",
+    "circuit_information": {
+      "time": 19.09090909090909,
+      "num_trotter_steps": 15,
+      "dt": 1.2727272727272727,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28551,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2fm8faus73f01omg",
+    "circuit_name": "evol_t19.773_idx29_plus",
+    "circuit_information": {
+      "time": 19.772727272727273,
+      "num_trotter_steps": 15,
+      "dt": 1.3181818181818181,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28199,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2g68faus73f01on0",
+    "circuit_name": "evol_t20.455_idx30_plus",
+    "circuit_information": {
+      "time": 20.454545454545453,
+      "num_trotter_steps": 15,
+      "dt": 1.3636363636363635,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28222,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2gm8faus73f01oog",
+    "circuit_name": "evol_t21.136_idx31_plus",
+    "circuit_information": {
+      "time": 21.136363636363637,
+      "num_trotter_steps": 15,
+      "dt": 1.4090909090909092,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28247,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2h7q1anc738cc1k0",
+    "circuit_name": "evol_t21.818_idx32_plus",
+    "circuit_information": {
+      "time": 21.81818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.4545454545454546,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28226,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2hq3qcgc73frncvg",
+    "circuit_name": "evol_t22.500_idx33_plus",
+    "circuit_information": {
+      "time": 22.5,
+      "num_trotter_steps": 15,
+      "dt": 1.5,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28241,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2i5bjrds73eccl7g",
+    "circuit_name": "evol_t23.182_idx34_plus",
+    "circuit_information": {
+      "time": 23.18181818181818,
+      "num_trotter_steps": 15,
+      "dt": 1.5454545454545454,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28503,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2iu8faus73f01os0",
+    "circuit_name": "evol_t23.864_idx35_plus",
+    "circuit_information": {
+      "time": 23.863636363636363,
+      "num_trotter_steps": 15,
+      "dt": 1.5909090909090908,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28452,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2je8faus73f01otg",
+    "circuit_name": "evol_t24.545_idx36_plus",
+    "circuit_information": {
+      "time": 24.545454545454547,
+      "num_trotter_steps": 15,
+      "dt": 1.6363636363636365,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28493,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2ju8faus73f01ou0",
+    "circuit_name": "evol_t25.227_idx37_plus",
+    "circuit_information": {
+      "time": 25.227272727272727,
+      "num_trotter_steps": 15,
+      "dt": 1.6818181818181819,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28231,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2ka3qcgc73frnd20",
+    "circuit_name": "evol_t25.909_idx38_plus",
+    "circuit_information": {
+      "time": 25.90909090909091,
+      "num_trotter_steps": 15,
+      "dt": 1.7272727272727273,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28491,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2ku8faus73f01ovg",
+    "circuit_name": "evol_t26.591_idx39_plus",
+    "circuit_information": {
+      "time": 26.59090909090909,
+      "num_trotter_steps": 15,
+      "dt": 1.7727272727272727,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28218,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2la3qcgc73frnd3g",
+    "circuit_name": "evol_t27.273_idx40_plus",
+    "circuit_information": {
+      "time": 27.272727272727273,
+      "num_trotter_steps": 15,
+      "dt": 1.8181818181818181,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28496,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2ltbjrds73ecclbg",
+    "circuit_name": "evol_t27.955_idx41_plus",
+    "circuit_information": {
+      "time": 27.954545454545453,
+      "num_trotter_steps": 15,
+      "dt": 1.8636363636363635,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 27597,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2me8faus73f01p1g",
+    "circuit_name": "evol_t28.636_idx42_plus",
+    "circuit_information": {
+      "time": 28.636363636363637,
+      "num_trotter_steps": 15,
+      "dt": 1.9090909090909092,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28223,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2mvq1anc738cc1r0",
+    "circuit_name": "evol_t29.318_idx43_plus",
+    "circuit_information": {
+      "time": 29.31818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.9545454545454546,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28256,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2ni3qcgc73frnd70",
+    "circuit_name": "evol_t30.000_idx44_plus",
+    "circuit_information": {
+      "time": 30.0,
+      "num_trotter_steps": 15,
+      "dt": 2.0,
+      "quench_sign": "plus",
+      "cx_depth": 93,
+      "size": 28267,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2o7q1anc738cc1sg",
+    "circuit_name": "evol_t0.000_idx0_minus",
+    "circuit_information": {
+      "time": 0.0,
+      "num_trotter_steps": 15,
+      "dt": 0.0,
+      "quench_sign": "minus",
+      "cx_depth": 0,
+      "size": 302,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2oi3qcgc73frnd90",
+    "circuit_name": "evol_t0.682_idx1_minus",
+    "circuit_information": {
+      "time": 0.6818181818181819,
+      "num_trotter_steps": 15,
+      "dt": 0.045454545454545456,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28463,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2p23qcgc73frnd9g",
+    "circuit_name": "evol_t1.364_idx2_minus",
+    "circuit_information": {
+      "time": 1.3636363636363638,
+      "num_trotter_steps": 15,
+      "dt": 0.09090909090909091,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28297,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2pm8faus73f01p60",
+    "circuit_name": "evol_t2.045_idx3_minus",
+    "circuit_information": {
+      "time": 2.0454545454545454,
+      "num_trotter_steps": 15,
+      "dt": 0.13636363636363635,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28222,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2pq3qcgc73frndb0",
+    "circuit_name": "evol_t2.727_idx4_minus",
+    "circuit_information": {
+      "time": 2.7272727272727275,
+      "num_trotter_steps": 15,
+      "dt": 0.18181818181818182,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28472,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2qdbjrds73ecclg0",
+    "circuit_name": "evol_t3.409_idx5_minus",
+    "circuit_information": {
+      "time": 3.409090909090909,
+      "num_trotter_steps": 15,
+      "dt": 0.22727272727272727,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28325,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2r7q1anc738cc1vg",
+    "circuit_name": "evol_t4.091_idx6_minus",
+    "circuit_information": {
+      "time": 4.090909090909091,
+      "num_trotter_steps": 15,
+      "dt": 0.2727272727272727,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28526,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2ri3qcgc73frnde0",
+    "circuit_name": "evol_t4.773_idx7_minus",
+    "circuit_information": {
+      "time": 4.7727272727272725,
+      "num_trotter_steps": 15,
+      "dt": 0.3181818181818182,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28256,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2rq3qcgc73frndf0",
+    "circuit_name": "evol_t5.455_idx8_minus",
+    "circuit_information": {
+      "time": 5.454545454545455,
+      "num_trotter_steps": 15,
+      "dt": 0.36363636363636365,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28242,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2sm8faus73f01p90",
+    "circuit_name": "evol_t6.136_idx9_minus",
+    "circuit_information": {
+      "time": 6.136363636363637,
+      "num_trotter_steps": 15,
+      "dt": 0.4090909090909091,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28467,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2t23qcgc73frndi0",
+    "circuit_name": "evol_t6.818_idx10_minus",
+    "circuit_information": {
+      "time": 6.818181818181818,
+      "num_trotter_steps": 15,
+      "dt": 0.45454545454545453,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28454,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2te8faus73f01pag",
+    "circuit_name": "evol_t7.500_idx11_minus",
+    "circuit_information": {
+      "time": 7.5,
+      "num_trotter_steps": 15,
+      "dt": 0.5,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28215,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2tu8faus73f01pbg",
+    "circuit_name": "evol_t8.182_idx12_minus",
+    "circuit_information": {
+      "time": 8.181818181818182,
+      "num_trotter_steps": 15,
+      "dt": 0.5454545454545454,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28225,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2utbjrds73eccllg",
+    "circuit_name": "evol_t8.864_idx13_minus",
+    "circuit_information": {
+      "time": 8.863636363636363,
+      "num_trotter_steps": 15,
+      "dt": 0.5909090909090909,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28316,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2ve8faus73f01pe0",
+    "circuit_name": "evol_t9.545_idx14_minus",
+    "circuit_information": {
+      "time": 9.545454545454545,
+      "num_trotter_steps": 15,
+      "dt": 0.6363636363636364,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28182,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g2vm8faus73f01pfg",
+    "circuit_name": "evol_t10.227_idx15_minus",
+    "circuit_information": {
+      "time": 10.227272727272727,
+      "num_trotter_steps": 15,
+      "dt": 0.6818181818181818,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28504,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g30a3qcgc73frndl0",
+    "circuit_name": "evol_t10.909_idx16_minus",
+    "circuit_information": {
+      "time": 10.90909090909091,
+      "num_trotter_steps": 15,
+      "dt": 0.7272727272727273,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28525,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g30m8faus73f01pgg",
+    "circuit_name": "evol_t11.591_idx17_minus",
+    "circuit_information": {
+      "time": 11.59090909090909,
+      "num_trotter_steps": 15,
+      "dt": 0.7727272727272727,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28286,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g315bjrds73ecclog",
+    "circuit_name": "evol_t12.273_idx18_minus",
+    "circuit_information": {
+      "time": 12.272727272727273,
+      "num_trotter_steps": 15,
+      "dt": 0.8181818181818182,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28493,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g31q3qcgc73frndn0",
+    "circuit_name": "evol_t12.955_idx19_minus",
+    "circuit_information": {
+      "time": 12.954545454545455,
+      "num_trotter_steps": 15,
+      "dt": 0.8636363636363636,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28472,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3223qcgc73frndo0",
+    "circuit_name": "evol_t13.636_idx20_minus",
+    "circuit_information": {
+      "time": 13.636363636363637,
+      "num_trotter_steps": 15,
+      "dt": 0.9090909090909091,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28485,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g32tbjrds73ecclqg",
+    "circuit_name": "evol_t14.318_idx21_minus",
+    "circuit_information": {
+      "time": 14.318181818181818,
+      "num_trotter_steps": 15,
+      "dt": 0.9545454545454546,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28502,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g33lbjrds73ecclrg",
+    "circuit_name": "evol_t15.000_idx22_minus",
+    "circuit_information": {
+      "time": 15.0,
+      "num_trotter_steps": 15,
+      "dt": 1.0,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28169,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g33q3qcgc73frndqg",
+    "circuit_name": "evol_t15.682_idx23_minus",
+    "circuit_information": {
+      "time": 15.681818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.0454545454545454,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28473,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g34nq1anc738cc2cg",
+    "circuit_name": "evol_t16.364_idx24_minus",
+    "circuit_information": {
+      "time": 16.363636363636363,
+      "num_trotter_steps": 15,
+      "dt": 1.0909090909090908,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28237,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g355bjrds73ecclu0",
+    "circuit_name": "evol_t17.045_idx25_minus",
+    "circuit_information": {
+      "time": 17.045454545454547,
+      "num_trotter_steps": 15,
+      "dt": 1.1363636363636365,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28527,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g35m8faus73f01pmg",
+    "circuit_name": "evol_t17.727_idx26_minus",
+    "circuit_information": {
+      "time": 17.727272727272727,
+      "num_trotter_steps": 15,
+      "dt": 1.1818181818181819,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28524,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3623qcgc73frndu0",
+    "circuit_name": "evol_t18.409_idx27_minus",
+    "circuit_information": {
+      "time": 18.40909090909091,
+      "num_trotter_steps": 15,
+      "dt": 1.2272727272727273,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28235,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g36i3qcgc73frndug",
+    "circuit_name": "evol_t19.091_idx28_minus",
+    "circuit_information": {
+      "time": 19.09090909090909,
+      "num_trotter_steps": 15,
+      "dt": 1.2727272727272727,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28551,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3768faus73f01pog",
+    "circuit_name": "evol_t19.773_idx29_minus",
+    "circuit_information": {
+      "time": 19.772727272727273,
+      "num_trotter_steps": 15,
+      "dt": 1.3181818181818181,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28199,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g37nq1anc738cc2g0",
+    "circuit_name": "evol_t20.455_idx30_minus",
+    "circuit_information": {
+      "time": 20.454545454545453,
+      "num_trotter_steps": 15,
+      "dt": 1.3636363636363635,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28222,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g38e8faus73f01pq0",
+    "circuit_name": "evol_t21.136_idx31_minus",
+    "circuit_information": {
+      "time": 21.136363636363637,
+      "num_trotter_steps": 15,
+      "dt": 1.4090909090909092,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28246,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g397q1anc738cc2hg",
+    "circuit_name": "evol_t21.818_idx32_minus",
+    "circuit_information": {
+      "time": 21.81818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.4545454545454546,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28227,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g39nq1anc738cc2jg",
+    "circuit_name": "evol_t22.500_idx33_minus",
+    "circuit_information": {
+      "time": 22.5,
+      "num_trotter_steps": 15,
+      "dt": 1.5,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28241,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3a68faus73f01psg",
+    "circuit_name": "evol_t23.182_idx34_minus",
+    "circuit_information": {
+      "time": 23.18181818181818,
+      "num_trotter_steps": 15,
+      "dt": 1.5454545454545454,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28502,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3anq1anc738cc2lg",
+    "circuit_name": "evol_t23.864_idx35_minus",
+    "circuit_information": {
+      "time": 23.863636363636363,
+      "num_trotter_steps": 15,
+      "dt": 1.5909090909090908,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28453,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3b68faus73f01pu0",
+    "circuit_name": "evol_t24.545_idx36_minus",
+    "circuit_information": {
+      "time": 24.545454545454547,
+      "num_trotter_steps": 15,
+      "dt": 1.6363636363636365,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28493,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3bnq1anc738cc2n0",
+    "circuit_name": "evol_t25.227_idx37_minus",
+    "circuit_information": {
+      "time": 25.227272727272727,
+      "num_trotter_steps": 15,
+      "dt": 1.6818181818181819,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28230,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3c5bjrds73eccm50",
+    "circuit_name": "evol_t25.909_idx38_minus",
+    "circuit_information": {
+      "time": 25.90909090909091,
+      "num_trotter_steps": 15,
+      "dt": 1.7272727272727273,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28490,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3cm8faus73f01q40",
+    "circuit_name": "evol_t26.591_idx39_minus",
+    "circuit_information": {
+      "time": 26.59090909090909,
+      "num_trotter_steps": 15,
+      "dt": 1.7727272727272727,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28218,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3d7q1anc738cc2p0",
+    "circuit_name": "evol_t27.273_idx40_minus",
+    "circuit_information": {
+      "time": 27.272727272727273,
+      "num_trotter_steps": 15,
+      "dt": 1.8181818181818181,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28496,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3dm8faus73f01q50",
+    "circuit_name": "evol_t27.955_idx41_minus",
+    "circuit_information": {
+      "time": 27.954545454545453,
+      "num_trotter_steps": 15,
+      "dt": 1.8636363636363635,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 27597,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3efq1anc738cc2r0",
+    "circuit_name": "evol_t28.636_idx42_minus",
+    "circuit_information": {
+      "time": 28.636363636363637,
+      "num_trotter_steps": 15,
+      "dt": 1.9090909090909092,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28222,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3eu8faus73f01q7g",
+    "circuit_name": "evol_t29.318_idx43_minus",
+    "circuit_information": {
+      "time": 29.31818181818182,
+      "num_trotter_steps": 15,
+      "dt": 1.9545454545454546,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28253,
+      "num_qubits": 156
+    }
+  },
+  {
+    "job_id": "d75g3fe8faus73f01q8g",
+    "circuit_name": "evol_t30.000_idx44_minus",
+    "circuit_information": {
+      "time": 30.0,
+      "num_trotter_steps": 15,
+      "dt": 2.0,
+      "quench_sign": "minus",
+      "cx_depth": 93,
+      "size": 28267,
+      "num_qubits": 156
+    }
+  }
+]

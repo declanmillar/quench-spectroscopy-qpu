@@ -1,0 +1,51 @@
+{
+  "mode": "hardware",
+  "L": 100,
+  "total_time": 30.0,
+  "slices": 61,
+  "fixed_dt": false,
+  "num_trotter_steps": 15,
+  "final_cx_depth": 93,
+  "Jx": -1.0,
+  "Jy": -1.0,
+  "Jz": -2.0,
+  "hx": 0.0,
+  "hy": 0.0,
+  "hz": 0.0,
+  "staggered": false,
+  "break_symmetries": false,
+  "product_state": false,
+  "ground_state_energy_density": -0.495,
+  "dmrg": {
+    "chi_max": 64,
+    "svd_min": 1e-10,
+    "max_E_err": 1e-10
+  },
+  "quench": {
+    "op": "ry",
+    "angle": 1.5707963267948966,
+    "sites": [
+      49,
+      50
+    ],
+    "antisymmetric": false
+  },
+  "observable_type": "flip2",
+  "aer_mps": {
+    "mps_truncation_threshold": 1e-16,
+    "mps_max_bond_dimension": 128
+  },
+  "meas_axis": "sy",
+  "backend": "ibm_boston",
+  "shots": 8192,
+  "opt_level": 2,
+  "seed_transpiler": 1234,
+  "zne_enabled": false,
+  "pea_enabled": false,
+  "dd_enabled": true,
+  "pt_enabled": true,
+  "git_commit": "8e8696f4428a127a3b33f6b91409d161733013ce",
+  "python": "3.12.7",
+  "platform": "macOS-26.3.1-arm64-arm-64bit",
+  "timestamp": "2026-04-07T17:16:52"
+}
